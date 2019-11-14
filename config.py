@@ -21,7 +21,7 @@ from __future__ import print_function
 from absl import flags
 
 FLAGS = flags.FLAGS
-DIR = '/home/trofim/nasbench/nasbench/scripts/'
+DIR = ''
 
 # Data flags (only required for generating the dataset)
 flags.DEFINE_list(
